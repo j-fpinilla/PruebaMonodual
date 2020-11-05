@@ -1,0 +1,174 @@
+.contenedor-felipe {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.contenedor-felipe figure{
+  position: relative;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  box-shadow: 0x 15px 25px
+  rgba(0, 0, 0, .50);
+}
+.contenedor-felipe figure img{
+  width: 100%;
+  height: 100%;
+  transition: all 500ms ease-out;
+}
+.contenedor-felipe figure .capa-felipe{
+  position: absolute;
+  top: 12%;
+  width: 100%;
+  height: 100%;
+  transition: all 500ms ease-out;
+
+  text-align: center;
+}
+.parrafo-consulta {
+  color: #6e6e73;
+  text-align: center;
+}
+.titulo-iphone{
+  color: aliceblue;
+  text-align: center;
+  font-size: 48px;
+  line-height: 1.08349;
+  font-weight: 600;
+  letter-spacing: -.002em;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.subtitulo-iphone{
+  color: aliceblue;
+  text-align: center;
+  font-size: 24px;
+  line-height: 1.16667;
+  font-weight: 400;
+  letter-spacing: .009em;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.link-iphone{
+  text-align: center;
+  color: #2997ff;
+  font-size: 19px;
+  line-height: 1.21053;
+  font-weight: 400;
+}
+
+
+
+.contenedor-abs-felipe2 {
+  background-color: #FBFBFD;
+}
+.contenedor-felipe2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.contenedor-felipe2 figure{
+  position: relative;
+  height: 100%;
+  width: 70%;
+  overflow: hidden;
+  box-shadow: 0x 15px 25px
+  rgba(0, 0, 0, .50);
+}
+.contenedor-felipe2 figure img{
+  width: 100%;
+  height: 100%;
+  transition: all 500ms ease-out;
+}
+.contenedor-felipe2 figure .capa-felipe{
+  position: absolute;
+  top: 5%;
+  width: 100%;
+  height: 100%;
+  transition: all 500ms ease-out;
+  text-align: center;
+}
+.titulo-iphone2{
+  color: black;
+  text-align: center;
+  font-size: 48px;
+  line-height: 1.08349;
+  font-weight: 600;
+  letter-spacing: -.002em;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.subtitulo-iphone2{
+  color: black;
+  text-align: center;
+  font-size: 24px;
+  line-height: 1.16667;
+  font-weight: 400;
+  letter-spacing: .009em;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+
+
+.contenedor-abs-felipe {
+  background-color: black;
+}
+.contenedor-felipe3 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.contenedor-felipe3 figure{
+  position: relative;
+  height: 75%;
+  width: 25%;
+  overflow: hidden;
+  box-shadow: 0x 15px 25px
+  rgba(0, 0, 0, .50);
+}
+.contenedor-felipe3 figure img{
+  width: 100%;
+  height: 100%;
+  transition: all 500ms ease-out;
+}
+.contenedor-felipe3 figure .capa-felipe{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  transition: all 500ms ease-out;
+
+  text-align: center;
+}
+.parrafo-consulta3 {
+  color:#D01F2A;
+  text-align: center;
+}
+.titulo-iphone{
+  color: aliceblue;
+  text-align: center;
+  font-size: 48px;
+  line-height: 1.08349;
+  font-weight: 600;
+  letter-spacing: -.002em;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.subtitulo-iphone{
+  color: aliceblue;
+  text-align: center;
+  font-size: 24px;
+  line-height: 1.16667;
+  font-weight: 400;
+  letter-spacing: .009em;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.link-iphone{
+  text-align: center;
+  color: #2997ff;
+  font-size: 19px;
+  line-height: 1.21053;
+  font-weight: 400;
+}
